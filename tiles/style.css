@@ -1,0 +1,89 @@
+body{
+	margin:0;
+	padding:0;
+  background-color: #000;
+
+}
+
+.outer{
+  text-align: center;
+}
+
+.page{
+	position:relative;
+	margin-top:0px;
+	background-color: #FFF;
+  max-width:1200px;
+  width:100%;
+  height:100%;
+  display: inline-block;
+  text-align: center;
+  height:99vh;
+}
+
+}
+
+.text{
+ text-align:left;
+font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+font-weight: 400;
+color: black;
+margin:45px;
+font-size:14px;
+
+}
+
+.navbar{
+	position: sticky;
+	top:0;
+	width:100%
+	height:100px;
+	background-color: darkorange;
+	z-index: 100;
+	opacity .9;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size:20px;
+	font-weight:400;
+	text-align:center;
+}
+
+.tile{
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 600px
+}
+
+.tilebg1{
+	background-image: url("img/oru1.jpg");
+	background-repeat: no no-repeat;
+	background-size: cover;
+	height: 400px;
+}
+
+.tilebg2{
+	background-image: url("img/oru2.jpg");
+}
+
+.tilebg3{
+	background-image: url("img/oru3.jpg");
+	background-repeat: no no-repeat;
+	background-size: cover;
+	height: 400px;
+}
+
+.tilebg4{
+	background-image: url("img/oru4.jpg");
+	background-repeat: no no-repeat;
+	background-size: cover;
+	height: 400px;
+}
+
+
+
+
+
+
+
+
+
+
